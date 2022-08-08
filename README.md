@@ -9,4 +9,4 @@
 </div> 
 
 ## :page_with_curl: Summary
-This repo contain a simple study about Node.js Streams.
+This repo contains a simple study I taught to the company's colleagues about Node.js Streams.
