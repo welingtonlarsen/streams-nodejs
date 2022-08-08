@@ -9,4 +9,4 @@
 </div> 
 
 ## :page_with_curl: Summary
-Describe here the summary.
+This repo contain a simple study about Node.js Streams.
